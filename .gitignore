@@ -125,3 +125,6 @@ Tlink/src/main/webapp/META-INF/maven/com.tlink/project/pom.properties
 
 # target
 target
+
+# User uploaded profile images (ignore)
+Tlink/src/main/webapp/resources/images/user/
